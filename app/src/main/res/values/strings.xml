@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FaireShop</string>
+    <string name="title_activity_main_compose">MainComposeActivity</string>
+    <string name="empty_content">Empty</string>
+    <string name="loading">Loading</string>
+    <string name="loading_failed">Loading Failed</string>
+    <string name="reload">Reload</string>
+</resources>
